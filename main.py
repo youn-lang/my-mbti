@@ -306,7 +306,7 @@ st.markdown(
 # 화면 구성
 # --------------------------------------------------
 st.markdown(
-    '<div class="main-title">⚡ MBTI 포켓몬 추천소</div>',
+    '<div class="main-title">⚡YSH의 MBTI 포켓몬 추천소</div>',
     unsafe_allow_html=True,
 )
 st.markdown(
